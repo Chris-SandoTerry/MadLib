@@ -42,16 +42,5 @@ int main()
 	cout << "But I guess I will go cry i'm " << adjective << "." << endl;
 
 
-
-
-
-
-
-
-
-
-
-
-
 	return 0;
 }
